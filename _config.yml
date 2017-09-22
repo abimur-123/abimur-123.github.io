@@ -7,11 +7,11 @@ description: > # this means to ignore newlines until "baseurl:"
 # Author Settings
 author: Abishek # add your name
 author-img: abishek-murali.jpg # add your photo
-about-author: Masters student at UBC, and an aspiring data scientist. Always willing to learn. # add description
+about-author: Masters student at UBC and an aspiring data scientist # add description
 twitter: abimojo # add your Twitter handle
 facebook: # add your Facebook handle
 github: abimur-123 # add your Github handle
-linkedin: # add your Linkedin handle
+linkedin: abishek-murali-a71025a9 # add your Linkedin handle
 email: abimur@gmail.com # add your Email address
 
 # Disqus

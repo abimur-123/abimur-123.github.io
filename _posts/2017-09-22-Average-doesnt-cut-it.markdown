@@ -12,7 +12,7 @@ Let's suppose you go to a doctor to consult regarding treatment for your kidney 
 I'm sure if you're like most people you say, "I'll go with treatment A, thank you!"
 
 
-![]({{site.baseurl}}/assests/img/Borat_thumbs_up.jpg)
+![]({{site.baseurl}}/assets/img/Borat_thumbs_up.jpg)
 Image source from https://imgflip.com/memetemplate/24895147/Borat-Thumbs-Up
 
 But then your doctor stops you to say, "The same study also observed which treatment worked better depending on whether the patient had large or small kidney stones." Now you're confused if you have large or small kidney stones and proceed to question the doctor regarding the same to which the doctor says, " At the end of the day it actually doesn't matter. The study found treatment B to have a higher probability
@@ -20,7 +20,7 @@ of success when compared to treatment A irrespective of which one you're sufferi
 
 Now you're confused and left wondering what you just heard/read about.
 
-![]({{site.baseurl}}/assests/img/george_tense_optimistic.jpg)
+![]({{site.baseurl}}/assets/img/george_tense_optimistic.jpg)
 Image source from https://pbs.twimg.com/profile_images/1606408825/RShea_400x400.jpg
 
 Guess what? It's actually true! An actual study that was conducted comparing the success rates of 2 treatments - treatment A, which is the open surgical procedure and treatment B, which is percutaneous nephrolithotomy (small puncture surgery) had the
@@ -90,3 +90,4 @@ The explanation for the Simpson's paradox sounds relatively simple but it is dif
 2. https://plato.stanford.edu/entries/paradox-simpson/
 3. Title inspiration - https://www.brookings.edu/blog/social-mobility-memos/2015/07/29/when-average-isnt-good-enough-simpsons-paradox-in-education-and-earnings/
 4. http://vudlab.com/simpsons/
+5. Blog image sourced at - https://i.ytimg.com/vi/zj2QV7cfUfQ/maxresdefault.jpg

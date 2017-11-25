@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-07-27-Top-7-Uncommon-Visualizations-Part1
+title: Top 7 Uncommon-Visualizations Part1
 date: 2017-07-27 00:00:00 +0300
 description: I discuss the most some not so common visulizations on Tableau
 img: tableau-logo.png
@@ -16,7 +16,7 @@ I recently came across this publication online — Three charts are all I ne
 ## Sankey Charts
 Sankey charts show how various nodes flow together or apart across multiple groups or time periods. The width of the arrows or streams is proportional the magnitude, so the bigger the arrow, the larger the quantity. This is similar to how rivers split into streams or tributaries join to form larger streams. This can be designed for multiple levels.
 
-![]({{site.baseurl}}/assets/Tableau_Part1/Sankey.png)
+![]({{site.baseurl}}/assets/img/Tableau_Part1/Sankey.png)
 
 [Source](https://public.tableau.com/static/images/Su/SuperstoreInteractiveSankeyShowcase/Sankey/1.png)
 
@@ -25,7 +25,7 @@ Sankey charts show how various nodes flow together or apart across multiple grou
 ## Sunburst or coxcomb charts
 This type of visualization shows a hierarchical structure in a circular layout. It consists of a series of rings, sliced by categories with each ring outward representing a deeper level in the hierarchy. The angle of each segment is proportional to the value (or number of members) within that segment. Although this does not offer a precise size comparison between the categories it allows to quickly identify notable segments within a complex, multi layered hierarchy.
 
-![]({{site.baseurl}}/assets/Tableau_Part1/Sunburst.png)
+![]({{site.baseurl}}/assets/img/Tableau_Part1/Sunburst.png)
 
 [Source](https://learningtableaublog.files.wordpress.com/2016/07/screen-shot-2016-07-15-at-20-10-49.png)
 
@@ -38,7 +38,7 @@ Box plot shows a distribution of data and is one of the favourite graphs of stat
 · Third quartile
 · Outliers
 
-![]({{site.baseurl}}/assets/Tableau_Part1/Sunburst.png)
+![]({{site.baseurl}}/assets/img/Tableau_Part1/Sunburst.png)
 
 [Source](http://www.theinformationlab.co.uk/wp-content/uploads/2015/06/Box-and-whisker-2nd-dimension.png)
 
@@ -47,7 +47,7 @@ Box plot shows a distribution of data and is one of the favourite graphs of stat
 ## Steam graphs
 This is a variation of the stacked area chart, which instead of plotting against a fixed axis, has values plotted against a varying central axis. It displays changes in data over time that resembles the flow of a river or stream. The size of the individual stream is proportional to the values in each category. The downsides of a steam graph is that the categories with smaller magnitude are not legible making it harder to read their values.
 
-![]({{site.baseurl}}/assets/Tableau_Part1/Steamgraph.png)
+![]({{site.baseurl}}/assets/img/Tableau_Part1/Steamgraph.png)
 
 [Source](http://www.thedataschool.co.uk/wp-content/uploads/2015/08/Sales-with-Dynamic-Dimensions-Overview1.jpg)
 
@@ -58,3 +58,5 @@ In addition to providing an engaging and memorable experience, custom visualizat
 There are other visualizations that one could explore such as coxcomb charts, Marimekko charts, Pareto charts and word clouds based on the user base and nature of the underlying data which will be explored in the next post.
 
 #### *To be continued……*
+
+Shoutout to Samiya Nasim for helping me put this together. Thanks Samiya!

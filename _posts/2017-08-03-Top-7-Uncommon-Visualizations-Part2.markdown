@@ -43,3 +43,6 @@ A word cloud is a visualization method that depicts the how frequently words app
 **When to use this:** It can be used to highlight important data points and can transform a dull visualization into a stunning one to convey crucial information.
 
 However, it is important to remember that visualizations are only tools to serve as information maps and highlight the most crucial piece of information; they may not always paint the whole picture!
+
+
+Shoutout to Samiya Nasim for helping me put this together. Thanks Samiya!

@@ -38,7 +38,7 @@ Box plot shows a distribution of data and is one of the favourite graphs of stat
 · Third quartile
 · Outliers
 
-![]({{site.baseurl}}/assets/img/Tableau_Part1/Sunburst.png)
+![]({{site.baseurl}}/assets/img/Tableau_Part1/Boxplot.png)
 
 [Source](http://www.theinformationlab.co.uk/wp-content/uploads/2015/06/Box-and-whisker-2nd-dimension.png)
 

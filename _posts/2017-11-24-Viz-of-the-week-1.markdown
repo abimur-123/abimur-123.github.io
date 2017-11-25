@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viz of the week
+title: Viz of the week wc Nov 20th
 date: 2017-11-24 00:00:00 +0300
 description: I discuss the most interesting visualization I found on the internet for wc 20th November # Add post description (optional)
 img: tableau-logo.png

@@ -17,7 +17,7 @@ There is a phenomenon in Statistics called the Simpson’s paradox, in which a t
 Marimekko charts visualize data over a pair of variables. It is a 100% stacked bar graph which is divided into segments. The axes are drawn to scale based on the pair of variables, and this determines the height and width of each segment. This makes it possible to determine the relationship between categories and their subcategories.
 The main downfall of the Marimekko is the readability component which becomes is affected significantly if there are numerous segments. It also cannot be relied on for accurate comparisons between segments.
 
-![]({{site.baseurl}}/assets/img/Tableau_Part2/Marimekko.png)
+![]({{site.baseurl}}/assets/img/Tableau_Part2/Marikmekko.png)
 
 [Source](https://i.pinimg.com/736x/79/56/14/795614849e4fcda53b229d26b954f557--marimekko-statistics.jpg)
 

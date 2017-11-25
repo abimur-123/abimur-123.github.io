@@ -2,9 +2,8 @@
 layout: post
 title: Viz of the week wc Nov 20th
 date: 2017-11-24 00:00:00 +0300
-description: I discuss the most interesting visualization I found on the internet for wc 20th November # Add post description (optional)
+description: I discuss the most interesting visualization I found on the internet for wc 20th November
 img: tableau-logo.png
- # Add image post (optional)
 tags: [DataViz] # add tag
 ---
 

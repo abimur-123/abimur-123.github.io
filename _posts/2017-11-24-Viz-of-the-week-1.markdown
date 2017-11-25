@@ -3,7 +3,7 @@ layout: post
 title: Viz of the week
 date: 2017-11-24 00:00:00 +0300
 description: I discuss the most interesting visualization I found on the internet for wc 20th November # Add post description (optional)
-img: ![]({{site.baseurl}}/assets/img/Viz_wc_20th/world_cup.JPG)
+img: tableau-logo.png
  # Add image post (optional)
 tags: [DataViz] # add tag
 ---
@@ -14,7 +14,7 @@ The football world cup qualification concluded last week and the 32 teams are al
 
 ![]({{site.baseurl}}/assets/img/Viz_wc_20th/world_cup.JPG)
 
-Image source [Tableu public](https://public.tableau.com/views/2018QualifiedNations/WC1930-2014?:embed=y&:embed_code_version=3&:loadOrderID=0&:display_count=yes:showVizHome=no)
+Image source [Tableau public](https://public.tableau.com/views/2018QualifiedNations/WC1930-2014?:embed=y&:embed_code_version=3&:loadOrderID=0&:display_count=yes:showVizHome=no)
 
 What I most like about this viz is how the author has used a contrasting color pallete to demonstrate the winners from the rest. The chart conveys a lot of information and does not look too cluttered at the same time.
 

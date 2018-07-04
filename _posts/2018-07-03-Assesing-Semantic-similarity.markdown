@@ -1,11 +1,13 @@
 ---
 layout: post
-title: You shall know an object by the company it keeps
-date: 2017-07-03 00:00:00 +0300
+title: You shall know a word by the company it keeps
+date: 2018-07-03 00:00:00 +0300
 description: Investigating semantic text representation and doc2vec in particular.
 img: d2vpost.jpg
 tags: [Natural language processing, semantic similarity, doc2vec]
 ---
+
+TLDR: Semantic similarity can be effectively used in sentiment analysis and is one of the most interesting problems in NLP. doc2vec, which is an extension of word2vec is an effective way to solve this problem. 
 
 ## What is semantic analysis?
 

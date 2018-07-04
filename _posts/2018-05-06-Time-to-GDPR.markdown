@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDPR - boon or bane?
-date: 2017-05-26 00:00:00 +0300
+date: 2018-05-26 00:00:00 +0300
 description: I discuss pros and cons of GDPR
 img: ./GDPR/GDPR_title.png
 tags: [data privacy, ethics, GDPR]

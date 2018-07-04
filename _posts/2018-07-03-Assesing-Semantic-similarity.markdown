@@ -7,7 +7,7 @@ img: d2vpost.jpg
 tags: [Natural language processing, semantic similarity, doc2vec]
 ---
 
-TLDR: Semantic similarity can be effectively used in sentiment analysis and is one of the most interesting problems in NLP. doc2vec, which is an extension of word2vec is an effective way to solve this problem.
+TLDR: Semantic similarity can be effectively used in sentiment analysis and is one of the most interesting problems in NLP. Word context is one way to solve this problem and doc2vec, which is an extension of word2vec is able to predict word/sentence context effectively.
 
 ## What is semantic analysis?
 

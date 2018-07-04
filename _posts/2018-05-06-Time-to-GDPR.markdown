@@ -1,4 +1,11 @@
-# GDPR - boon or bane?
+---
+layout: post
+title: GDPR - boon or bane?
+date: 2017-05-26 00:00:00 +0300
+description: I discuss pros and cons of GDPR
+img: ./GDPR/GDPR_title.png
+tags: [data privacy, ethics, GDPR]
+---
 
 The Internet has become an indispensable part of our lives now. We cannot think of a world without wi-fi and devices that help us access the internet. In a world that revolves around the internet the value of personal data is growing. Personal data has become the new oil and there is a mad race between companies to obtain more personal data from users.
 

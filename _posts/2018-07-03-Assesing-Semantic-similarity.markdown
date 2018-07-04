@@ -7,7 +7,7 @@ img: d2vpost.jpg
 tags: [Natural language processing, semantic similarity, doc2vec]
 ---
 
-TLDR: Semantic similarity can be effectively used in sentiment analysis and is one of the most interesting problems in NLP. doc2vec, which is an extension of word2vec is an effective way to solve this problem. 
+TLDR: Semantic similarity can be effectively used in sentiment analysis and is one of the most interesting problems in NLP. doc2vec, which is an extension of word2vec is an effective way to solve this problem.
 
 ## What is semantic analysis?
 
@@ -25,7 +25,7 @@ Semantic similarity can be really effective when it comes to addressing problems
 
 In 2014, Mikilov and Le introduced the **doc2vec** approach as a solution to one of the problems in the **SemEval competition** [2]. Mikilov was also one of the authors of the paper that introduced **word2vec**. Word2vec was one of the first methods that could capture semantic meaning of words from the text [3]. This was achieved by training a neural network based on word contexts. The neural network based word vectors are usually trained using stochastic gradient descent via backpropagation. Figure 1 depicts the setup of the word2vec model.
 
-![]({({{site.baseurl}}/assets/img/d2v/word2vec.png)})
+![]({{site.baseurl}}/assets/img/d2v/word2vec.png)
 
 Figure 1:  Word2vec -- CBOW architecture predicts the current word based on the context, and the Skip-gram predicts surrounding words given the current word.
 
@@ -48,7 +48,9 @@ The authors raise 3 main research questions in this paper -
 
 Documents might not have a logical structure like words, which makes it harder to represent documents of varying length as numeric vectors. Doc2vec helps circumvent this problem by introducing a paragraph vector along with the already existing word vectors present in word2vec. So, when training the word vectors W, the document vector D is trained as well, and at the end of training, it holds a numeric representation of the document. Figure 2 shows the setup of the doc2vec model [4].
 
-![]({({{site.baseurl}}/assets/img/d2v/doc2vec.png)})
+![]({{site.baseurl}}/assets/img/d2v/doc2vec.png)
+
+Figure 2: Doc2vec -- PV-DM architechture (paragraph vector distributed memory)
 
 In Paragraph vectors, paragraph vectors are concatenated with word vectors to form a single vector. How does this help? *The paragraph vector acts as a memory of what is missing in the current context. Word vectors are shared across all the paragraphs, while paragraph vectors are shared across all contexts generated from the same paragraph. Vectors are trained using `stochastic gradient descent with backprop`.*
 

@@ -43,7 +43,7 @@ China is fertile ground to develop AI applications, and Alibaba is moving full t
 
 With its City Brain project, Alibaba hopes to help cities run their operations by artificial intelligence. In addition to these examples, Alibaba uses AI to optimize its supply chain, build products and drive personalized recommendations.
 
-Should definitely be interesting to see how Alibaba decides to use AI?
+Should definitely be interesting to see how Alibaba decides to use AI in the near future.
 
 ## Scientific papers
 
@@ -54,6 +54,8 @@ The authors explore the effect of *attention* in deep neural networks and furthe
 In BAM, the authors decompose the process of inferring a 3D attention map into two streams -- the channel and spatial paths. **Figure 1** shows module architecture.
 
 ![]({{site.baseurl}}/assets/img/WIML/wc_1607/BAM.png)
+
+**Figure 1 - BAM architecture**
 
 The module has 2 hyperparameters -- dilation value (d) and reduction ratio (r). The dilation value determines the size
 of receptive fields which is helpful for the contextual information aggregation at the spatial branch. The reduction

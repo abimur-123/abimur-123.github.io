@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The week in machine learning wc July 16th, 2018
+title: The week in machine learning wc July 23rd, 2018
 date: 2018-07-31 00:00:00 +0300
 description: Exploring advancements in machine learning and Artifical intelligence
-img: WIML/wc_1607/wc_16thJuly.jpg
+img: WIML/wc_2307/machine_learning_xkcd.png
 tags: [evolutionary algorithms, Gluon, supervisely, data privacy, ethics]
 ---
 

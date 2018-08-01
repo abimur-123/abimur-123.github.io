@@ -77,7 +77,7 @@ They have all the models on their [GitHub page](https://github.com/supervisely/s
 
 I found this article to be fascinating because it's the first time I've come across the word "Data Slavery". This is reflective of our current state according to Jennifer Lyn Morone, an American artist. Jennifer Lyn Morone created dossiers containing different subsets of her personal data and displayed it in a London gallery (see below) in 2016! She also registered herself as a company to profit from her own data.
 
-![]({{site.baseurl}}/assets/img/WIML/wc_2307/artist_personal.png)
+![]({{site.baseurl}}/assets/img/WIML/wc_2307/artist_personal.jpg)
 
 **Photograph: Courtesy of the artist and Carroll / Fletcher, London [2]**
 

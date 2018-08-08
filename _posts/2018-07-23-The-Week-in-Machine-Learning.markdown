@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The week in machine learning wc July 16th, 2018
+title: The week in machine learning -- July 16th 2018 week
 date: 2018-07-23 00:00:00 +0300
 description: Exploring advancements in machine learning and Artifical intelligence
 img: WIML/wc_1607/wc_16thJuly.jpg

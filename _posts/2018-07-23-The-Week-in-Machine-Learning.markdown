@@ -9,13 +9,13 @@ tags: [PoseNet, NIH, Alibaba, BAM, Twitter, Yellowbrick]
 
 `print("Hello, World!")`
 
-This is a weekly collection of latest scientific papers, news, resources and tools in the fields of Machine Learning and Artificial Intelligence. These articles should not take up more than ten minutes of your precious time.
+This is a weekly collection of latest scientific papers, news, resources and tools in the fields of Machine Learning and Artificial Intelligence. I do have an interesting section at the end that I like to call "Food for thought". These articles should not take up more than ten minutes of your day.
 
-I hope you find the weekly issue worthwhile. Feel free to share this with your friends and do drop any suggestions you might have to my inbox - abimur@gmail.com
+I hope you find the weekly issue worthwhile. Feel free to share this and do reach out to me with any suggestions you might have - abimur@gmail.com
 
 Abishek
 
-Week in Machine learning
+In my first post, I explore Google's new pose-matching experiment, an AI workshop to address mental health, clustering Twitter data and finally I discuss an article that talks about Bonding with your algorithm.
 
 ## In the news
 
@@ -89,4 +89,4 @@ Here's a [Google collab notebook](https://colab.research.google.com/github/tenso
 
 I found this interesting post on Edge.org, where Nicolas Berggruen, Founder and Chairman of the Berggruen Institute draws parallels between the algorithms we create and the relationship between parents and children. He goes onto state that as creators or the ones enabling the algorithms, we’re the parents. We need to be treating these algorithms the way we treat our children.
 
-He goes on to explain why separating technology and humans, the way we often think about issues, is almost wrong.
+He goes on to explain why separating technology and humans, the way we often think about issues, is almost wrong. This article did make me step back and think about how we create algorithms and their possible impact. Would love to hear your experiences about algorithms that you think have had an unforseen impact (good or bad).

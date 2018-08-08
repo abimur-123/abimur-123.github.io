@@ -9,6 +9,8 @@ tags: [evolutionary algorithms, Gluon, supervisely, data privacy, ethics]
 
 This week's first article in the news is also based on a paper. Funny story, the paper did not create as many waves as the news article itself (not surprised). I would definitely encourage more people to summarize papers and write articles or blog posts about them to help expand the reach.
 
+In this week's post, I cover evolutionary algorithms, killer robots, recurrent neural networks, a useful NLP tool in the market and finally I explore a scenario where we sell our own data. Strap in!
+
 ## In the news
 
 ### [Evolutionary algorithm outperforms deep-learning machines at video games](https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/amp/)

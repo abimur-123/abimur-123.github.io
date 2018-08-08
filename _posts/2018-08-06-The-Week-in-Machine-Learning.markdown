@@ -7,7 +7,7 @@ img: WIML/wc_3007/blog_title.jpg
 tags: [NIMH, brain, mental illness, real-estate, emotions, facial-recognition, keras, fairness, ethics]
 ---
 
-Been a week where we were greated to the news of - **OpenAI Bots Crush the Best Human Dota 2 Players in the World**. What next for the OpenAI team? 
+This week we were greeted to the news of - **OpenAI Bots Crush the Best Human Dota 2 Players in the World**. So, what next for the OpenAI team? 
 
 In this week's post, I explore the use of machine learning in mental health, real-estate and a paper that can accurately predict human emotions. I finally discuss an article on HBR that encourages data scientists to make "fairness by design" a part of the machine learning model development cycle.
 

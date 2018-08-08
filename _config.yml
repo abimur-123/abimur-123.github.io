@@ -5,13 +5,13 @@ description: > # this means to ignore newlines until "baseurl:"
 # Author Settings
 author: Abishek Murali # add your name
 author-img: abishek-murali.jpg # add your photo
-about-author: |
+about-author: >
 
   Data scientist
 
   Trying to find beauty in randomness
-  
-  You can find me on twitter and linkedin as well. # add description
+
+  You can find me on twitter and linkedin as well.
 twitter: abimojo # add your Twitter handle
 facebook: cambridge.analytica # add your Facebook handle
 github: abimur-123/projects # add your Github handle

@@ -7,7 +7,7 @@ img: WIML/wc_1308/title.jpg
 tags: [comedy, dialogue systems, Descartes, SciNet, TransmogrifAI, Salesforce, sciene]
 ---
 
-The Google juggernaut keeps chugging along. The behemoth has now turned to AI to help cut down its power bill by close to 30 per cent! DeepMind AI has helped cut electricity use at Google data centres thanks to its efficient use of equipment, such as cooling systems and windows. I might just end up paying them to work there (kidding). In other news, Microsoft is now inviting applications for their [AI idea challenge](https://www.ailab.microsoft.com/challenge). Do sign up for this if this is something that excites you and if you want to win a Surface Book 2.
+The Google juggernaut keeps chugging along. The behemoth has now turned to AI to help cut down its power bill by close to 30 per cent! DeepMind AI has helped cut electricity use at Google data centres thanks to its efficient use of equipment, such as cooling systems and windows. I might just end up paying them to work there (kidding). In other news, Microsoft is now inviting applications for their [AI idea challenge](https://www.ailab.microsoft.com/challenge). Do sign up if this is something that excites you or if you want to win a Surface Book 2.
 
 In this week's post, I explore the use of ML in stand-up comedy, geospatial data and a paper that can is using neural networks to discover concepts in Physics. In the *Food for thought* section, I discuss how machine learning is impacting our understanding of science. Let's get started!
 

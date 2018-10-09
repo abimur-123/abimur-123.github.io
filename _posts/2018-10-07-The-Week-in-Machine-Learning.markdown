@@ -7,9 +7,11 @@ img: WIML/wc_0710/title.jpg
 tags: [PyTorch, Famine, RandomForest, Bayesian, Graphs, ethics]
 ---
 
-To anyone who's been following and are thinking if this series is dead, I don't blame you. So, I've moved to a new city and been busy with my new role as a Machine learning engineer at a startup and hence the break in posts. I will try and come up with a post on a bi-weekly basis.
+Happy Thanksgiving people!
 
-In this week's post I discuss about Google and Facebook coming together to drive AI development, how World Bank wants to use machine learning to predict famine, a method that could possibly replace Random forests and finally, will machines ever be as smart as humans?
+To anyone who's been following (hoping for single digit readers at least) and are thinking if this series is dead, I don't blame you. So, I've moved to a new city and been busy with my new role as a Machine learning engineer. I will try and come out with a post on a bi-weekly basis at-least.
+
+In this week's post I discuss about Google and Facebook coming together to drive AI development, how World Bank wants to use machine learning to predict famine, a method that could possibly replace Random forests. I also discuss about an interesting article about nerd-sightedness of AI.
 
 ## In the news
 
